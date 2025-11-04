@@ -31,8 +31,6 @@ The goal of this repository is to:
 |-----|----------------|-------------|------|
 | 🎬 1 | **Netflix Movies and TV Shows Data Analysis** | Comprehensive SQL analysis of Netflix data to uncover trends, ratings, and country-level insights. | [View Project](https://github.com/janakiram147/SQL-PROJECTS/tree/main/Netflix%20data%20analysis%20using%20SQL) |
 | 📦 2 | *(Upcoming)* E-Commerce Sales Data Analysis | Analyze online sales data to study customer behavior, revenue trends, and product performance. | Coming Soon |
-| 💰 3 | *(Upcoming)* Financial Transactions Insights | Explore transaction data to identify spending patterns and anomalies using SQL analytics. | Coming Soon |
-| 🏥 4 | *(Upcoming)* Healthcare Data Exploration | Examine patient and hospital data to uncover healthcare trends and efficiency metrics. | Coming Soon |
 
 ---
 
